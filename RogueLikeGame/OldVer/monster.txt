@@ -1,0 +1,18 @@
+{
+
+	"monsters" : [
+    		{"monster_name": "wolf", "monster_hp": 100, "monster_def": 5, "monster_dmg": 10},
+    		{"monster_name": "boar", "monster_hp": 200, "monster_def": 10, "monster_dmg": 7},
+    		{"monster_name": "rabbit","monster_hp": 50, "monster_def": 2, "monster_dmg":2}
+
+	],
+
+	"loot_table" : [
+    		{"name": "gold", "chance": 100, "max_amount": 300, "class": "value"},
+    		{"name": "skin", "chance": 25, "max_amount": 5, "class": "material"},
+    		{"name": "tusk", "chance": 40, "max_amount": 10, "class": "material"},
+    		{"name": "meat", "chance": 50, "max_amount": 30, "class": "material"},
+    		{"name": "iron", "chance": 10, "max_amount": 5, "class": "material"},
+    		{"name": "knife", "chance": 5, "max_amount": 1, "class": "weapon"}
+	]
+}

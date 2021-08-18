@@ -1,0 +1,9 @@
+[
+    {"name": "Rock", "mass": 3.6, "radius": 0.15, "damage": 10, "amount": 1, "cost": 10},
+  {"name": "BigBLACK_BOY", "mass": 10000000000000000, "radius": 500, "damage": 10000, "amount": 1, "cost": 10000},
+  {"name": "FireWater", "mass":10, "radius": 0.5, "damage": 50, "amount":1, "cost": 25},
+  {"name": "Nucleus", "mass": 40, "radius": 0.30, "damage": 100, "amount": 1, "cost": 75},
+  {"name": "Fires of Gehenna", "mass": 666, "radius": 6.66, "damage": 666, "amount": 6, "cost": 666},
+  {"name": "Anime", "mass": 0.1, "radius": 0.1 , "damage": 1, "amount": 12, "cost": 0},
+  {"name": "LaxadeR", "mass": 65, "radius": 0.3, "damage": 500, "amount": 1, "cost": 50}
+]

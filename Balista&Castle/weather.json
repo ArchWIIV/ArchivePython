@@ -1,0 +1,9 @@
+[
+    {"air_pressure": 720, "temperature": 27, "humidity": 0.8, "wind": 3},
+  {"air_pressure": 620, "temperature": 35, "humidity": 0.4, "wind": -6},
+  {"air_pressure": 70, "temperature": 400, "humidity": 1, "wind": 300},
+  {"air_pressure": 790, "temperature": 15, "humidity": 1, "wind": -20},
+  {"air_pressure": 620, "temperature": -40, "humidity": 0.3, "wind": 26},
+  {"air_pressure": 750, "temperature": 20, "humidity": 0.5, "wind": 9},
+  {"air_pressure": 79999, "temperature": 400, "humidity": 1, "wind": 30}
+]

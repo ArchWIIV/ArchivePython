@@ -1,0 +1,13 @@
+{
+    "item_characters" : [
+        {"name": "knife", "dmg": 15, "def": 0, "class": "weapon"},
+        {"name": "sword", "dmg": 30, "def": 2, "class": "weapon"},
+        {"name": "wooden-shield", "dmg": 5, "def": 15, "class": "weapon"},
+        {"name": "leather_helm", "def": 5, "class": "armor", "slot": "head"},
+        {"name": "leather_jacket", "def": 10, "class": "armor", "slot": "breast"},
+        {"name": "leather_pants", "def": 7, "class": "armor", "slot": "legs"},
+        {"name": "leather_gloves", "def": 7, "class": "armor", "slot": "hand"},
+        {"name": "heal_potion", "heal": 50, "class": "us_item"}
+
+    ]
+}

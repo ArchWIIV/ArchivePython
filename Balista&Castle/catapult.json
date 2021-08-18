@@ -1,0 +1,10 @@
+[
+  {"name": "Catapulta", "cost": 700, "cost_up": 150, "power": 200},
+  {"name": "ForBlackHoles", "cost": 1000000, "cost_up": 100000000, "power": 300000000000000000},
+  {"name": "Animepult", "cost": 10, "cost_up": 10, "power": 3},
+  {"name": "Balista", "cost": 2500, "cost_up": 300, "power": 300},
+  {"name": "Adskaia Trebuchet", "cost": 6660, "cost_up": 666, "power": 666},
+  {"name": "Trebuchet", "cost": 10000, "cost_up": 1000, "power": 900},
+  {"name": "Super_Mega_Epic_Ultra_Diamond_Excellent_God_Imperial_Catapult_Exorcistic", "cost": 25000, "cost_up": 4000, "power": 2000},
+  {"name": "", "cost": 10, "cost_up": 10, "power": 3}
+]

@@ -1,0 +1,18 @@
+{
+
+	"monsters" : [
+    		{"monster_name": "WOLF", "monster_hp": 100, "monster_def": 5, "monster_dmg": 10},
+    		{"monster_name": "BOAR", "monster_hp": 200, "monster_def": 10, "monster_dmg": 7},
+    		{"monster_name": "RABBIT SOUL EATER","monster_hp": 50, "monster_def": 2, "monster_dmg":2}
+
+	],
+
+	"loot_table" : [
+    		{"name": "gold", "chance": 100, "amount": 300},
+    		{"name": "skin", "chance": 25, "amount": 5},
+    		{"name": "tusk", "chance": 40, "amount": 10},
+    		{"name": "meat", "chance": 50, "amount": 30},
+    		{"name": "iron", "chance": 10, "amount": 5},
+			{"name": "knife", "chance": 5, "amount": 1, "class": "weapon", "dmg": 15, "armor": 0}
+	]
+}
